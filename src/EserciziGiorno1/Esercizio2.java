@@ -1,3 +1,5 @@
+package EserciziGiorno1;
+
 import java.util.Scanner;
 
 public class Esercizio2 {

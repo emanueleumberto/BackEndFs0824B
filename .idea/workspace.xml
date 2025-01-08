@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoluzioneEsercizioGiornoUno.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio3.java" afterDir="false" />
+    <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi Giorno 1">
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio1_ifElseif/Esercizio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio2_switch/Esercizio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio3_while/Esercizio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio4_for/Esercizio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestioneEsercizi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoluzioneEsercizioGiornoUno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoluzioneEsercizi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EserciziGiorno1/Esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EserciziGiorno1/Esercizio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EserciziGiorno1/Esercizio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +32,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;emanueleumberto&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/emanueleumberto/BackEndFs0824B.git&quot;,
+    &quot;accountId&quot;: &quot;b26493b7-07dd-4a94-bc1e-756325e02e79&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rJ8tPU8LQbGiELkfqPJRmL3dqb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +58,7 @@
     "Application.Esercizio1.executor": "Run",
     "Application.Esercizio2.executor": "Run",
     "Application.Esercizio3.executor": "Run",
+    "Application.GestioneEsercizi.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -52,30 +66,38 @@
     "onboarding.tips.debug.path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Esercizio3">
+  <component name="RunManager" selected="Application.GestioneEsercizi">
     <configuration name="Esercizio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Esercizio1" />
-      <module name="SoluzioneEsercizioGiornoUno" />
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno1.Esercizio1" />
+      <module name="SoluzioneEsercizi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Esercizio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Esercizio2" />
-      <module name="SoluzioneEsercizioGiornoUno" />
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno1.Esercizio2" />
+      <module name="SoluzioneEsercizi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Esercizio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Esercizio3" />
-      <module name="SoluzioneEsercizioGiornoUno" />
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno1.Esercizio3" />
+      <module name="SoluzioneEsercizi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestioneEsercizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno2.GestioneEsercizi" />
+      <module name="SoluzioneEsercizi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GestioneEsercizi" />
         <item itemvalue="Application.Esercizio3" />
         <item itemvalue="Application.Esercizio2" />
         <item itemvalue="Application.Esercizio1" />
@@ -91,13 +113,26 @@
       <option name="presentableId" value="Default" />
       <updated>1736266034094</updated>
     </task>
+    <task id="LOCAL-00001" summary="Soluzione Esercizi Giorno 1">
+      <option name="closed" value="true" />
+      <created>1736269221401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736269221401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Soluzione Esercizi Giorno 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi Giorno 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Esercizio1.java</url>
+          <url>file://$PROJECT_DIR$/src/EserciziGiorno1/Esercizio1.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
