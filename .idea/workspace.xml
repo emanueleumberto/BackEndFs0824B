@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi Giorno 2">
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es1_Rettangolo/GestioneRettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es1_Rettangolo/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es2_Sim/Chiamata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es2_Sim/GestioneSim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es2_Sim/Sim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es3_Ecommerce/Articolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es3_Ecommerce/Carrello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno3/Es3_Ecommerce/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es1_Interi/GestioneInteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es2_CalcoloLitriAuto/GestioneLitriKmAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/BancaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/ContoCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/ContoOnLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/GestioneContoCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoluzioneEsercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoluzioneEsercizi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,27 +57,32 @@
     "Application.Esercizio1.executor": "Run",
     "Application.Esercizio2.executor": "Run",
     "Application.Esercizio3.executor": "Run",
+    "Application.GestioneContoCorrente.executor": "Run",
     "Application.GestioneEsercizi.executor": "Run",
+    "Application.GestioneInteri.executor": "Run",
     "Application.GestioneRettangolo.executor": "Run",
     "Application.GestioneSim.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/src/Main.java"
+    "last_opened_file_path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/lib/logback-core-1.5.15.jar",
+    "onboarding.tips.debug.path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GestioneSim">
-    <configuration name="Esercizio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno1.Esercizio2" />
+  <component name="RunManager" selected="Application.GestioneContoCorrente">
+    <configuration name="GestioneContoCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno5.Es3_ContoCorrente.GestioneContoCorrente" />
       <module name="SoluzioneEsercizi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Esercizio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno1.Esercizio3" />
-      <module name="SoluzioneEsercizi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EserciziGiorno5.Es3_ContoCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,6 +90,19 @@
     <configuration name="GestioneEsercizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EserciziGiorno2.GestioneEsercizi" />
       <module name="SoluzioneEsercizi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestioneInteri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno5.Es1_Interi.GestioneInteri" />
+      <module name="SoluzioneEsercizi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EserciziGiorno5.Es1_Interi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GestioneContoCorrente" />
+        <item itemvalue="Application.GestioneInteri" />
         <item itemvalue="Application.GestioneSim" />
         <item itemvalue="Application.GestioneRettangolo" />
         <item itemvalue="Application.GestioneEsercizi" />
-        <item itemvalue="Application.Esercizio3" />
-        <item itemvalue="Application.Esercizio2" />
       </list>
     </recent_temporary>
   </component>
@@ -151,12 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736355661802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Soluzione Esercizi Giorno 2">
+      <option name="closed" value="true" />
+      <created>1736442215460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442215460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Soluzione Esercizi Giorno 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi Giorno 1" />
+    <MESSAGE value="Soluzione Esercizi Giorno 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi Giorno 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
