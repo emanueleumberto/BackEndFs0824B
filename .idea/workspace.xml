@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi Giorno 2">
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es1_Interi/GestioneInteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es2_CalcoloLitriAuto/GestioneLitriKmAuto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/BancaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/ContoCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/ContoOnLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/GestioneContoCorrente.java" afterDir="false" />
+    <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi Giorno 5">
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno6/Es1_StringheDuplicate/GestioneStringhe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno6/Es2_ListaInteri/GestioneNumeriInteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno6/Es3_RubricaTelefonica/GestioneRubricaTelefonica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoluzioneEsercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoluzioneEsercizi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +56,11 @@
     "Application.GestioneContoCorrente.executor": "Run",
     "Application.GestioneEsercizi.executor": "Run",
     "Application.GestioneInteri.executor": "Run",
+    "Application.GestioneNumeriInteri.executor": "Run",
     "Application.GestioneRettangolo.executor": "Run",
+    "Application.GestioneRubricaTelefonica.executor": "Run",
     "Application.GestioneSim.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/lib/logback-core-1.5.15.jar",
@@ -73,7 +70,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GestioneContoCorrente">
+  <component name="RunManager" selected="Application.GestioneStringhe">
     <configuration name="GestioneContoCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EserciziGiorno5.Es3_ContoCorrente.GestioneContoCorrente" />
       <module name="SoluzioneEsercizi" />
@@ -83,13 +80,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GestioneEsercizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno2.GestioneEsercizi" />
-      <module name="SoluzioneEsercizi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GestioneRettangolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno3.Es1_Rettangolo.GestioneRettangolo" />
+    <configuration name="GestioneNumeriInteri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno6.Es2_ListaInteri.GestioneNumeriInteri" />
       <module name="SoluzioneEsercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EserciziGiorno3.Es1_Rettangolo.*" />
+          <option name="PATTERN" value="EserciziGiorno6.Es2_ListaInteri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GestioneSim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno3.Es2_Sim.GestioneSim" />
+    <configuration name="GestioneRubricaTelefonica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno6.Es3_RubricaTelefonica.GestioneRubricaTelefonica" />
       <module name="SoluzioneEsercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EserciziGiorno3.Es2_Sim.*" />
+          <option name="PATTERN" value="EserciziGiorno6.Es3_RubricaTelefonica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestioneStringhe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno6.Es1_StringheDuplicate.GestioneStringhe" />
+      <module name="SoluzioneEsercizi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EserciziGiorno6.Es1_StringheDuplicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GestioneStringhe" />
+        <item itemvalue="Application.GestioneRubricaTelefonica" />
+        <item itemvalue="Application.GestioneNumeriInteri" />
         <item itemvalue="Application.GestioneContoCorrente" />
         <item itemvalue="Application.GestioneInteri" />
-        <item itemvalue="Application.GestioneSim" />
-        <item itemvalue="Application.GestioneRettangolo" />
-        <item itemvalue="Application.GestioneEsercizi" />
       </list>
     </recent_temporary>
   </component>
@@ -176,13 +179,22 @@
       <option name="project" value="LOCAL" />
       <updated>1736442215460</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Soluzione Esercizi Giorno 5">
+      <option name="closed" value="true" />
+      <created>1736787972092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736787972092</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Soluzione Esercizi Giorno 1" />
     <MESSAGE value="Soluzione Esercizi Giorno 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi Giorno 2" />
+    <MESSAGE value="Soluzione Esercizi Giorno 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi Giorno 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
