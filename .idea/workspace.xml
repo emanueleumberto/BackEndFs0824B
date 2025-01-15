@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi Giorno 5">
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno6/Es1_StringheDuplicate/GestioneStringhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno6/Es2_ListaInteri/GestioneNumeriInteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno6/Es3_RubricaTelefonica/GestioneRubricaTelefonica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/GestioneStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,9 @@
     &quot;accountId&quot;: &quot;b26493b7-07dd-4a94-bc1e-756325e02e79&quot;
   }
 }</component>
+  <component name="JvmLoggingSettingsStorage">
+    <option name="loggerId" value="Slf4j" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -60,6 +64,8 @@
     "Application.GestioneRettangolo.executor": "Run",
     "Application.GestioneRubricaTelefonica.executor": "Run",
     "Application.GestioneSim.executor": "Run",
+    "Application.GestioneStream.executor": "Run",
+    "Application.GestioneStringhe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -70,26 +76,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GestioneStringhe">
+  <component name="RunManager" selected="Application.GestioneStream">
     <configuration name="GestioneContoCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EserciziGiorno5.Es3_ContoCorrente.GestioneContoCorrente" />
       <module name="SoluzioneEsercizi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EserciziGiorno5.Es3_ContoCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GestioneInteri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno5.Es1_Interi.GestioneInteri" />
-      <module name="SoluzioneEsercizi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EserciziGiorno5.Es1_Interi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GestioneStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno7.Es_Stream.GestioneStream" />
+      <module name="SoluzioneEsercizi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EserciziGiorno7.Es_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GestioneStringhe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EserciziGiorno6.Es1_StringheDuplicate.GestioneStringhe" />
       <module name="SoluzioneEsercizi" />
@@ -138,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GestioneStream" />
         <item itemvalue="Application.GestioneStringhe" />
         <item itemvalue="Application.GestioneRubricaTelefonica" />
         <item itemvalue="Application.GestioneNumeriInteri" />
         <item itemvalue="Application.GestioneContoCorrente" />
-        <item itemvalue="Application.GestioneInteri" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736787972092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Soluzione Esercizi Giorno 5">
+      <option name="closed" value="true" />
+      <created>1736875096193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736875096193</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
