@@ -4,12 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi Giorno 5">
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/GestioneStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Product.java" afterDir="false" />
+    <list default="true" id="95f7e675-9e82-4d43-a6eb-2aa9104674e3" name="Changes" comment="Soluzione Esercizi">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno8/Es_StreamFIle/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno8/Es_StreamFIle/GestioneStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno8/Es_StreamFIle/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno8/Es_StreamFIle/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno1/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno1/Esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno1/Esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno1/Esercizio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno1/Esercizio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno1/Esercizio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio1_ifElseif/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno2/Esercizio1_ifElseif/Esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio2_switch/Esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno2/Esercizio2_switch/Esercizio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio3_while/Esercizio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno2/Esercizio3_while/Esercizio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno2/Esercizio4_for/Esercizio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno2/Esercizio4_for/Esercizio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno2/GestioneEsercizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno2/GestioneEsercizi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es1_Rettangolo/GestioneRettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es1_Rettangolo/GestioneRettangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es1_Rettangolo/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es1_Rettangolo/Rettangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es2_Sim/Chiamata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es2_Sim/Chiamata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es2_Sim/GestioneSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es2_Sim/GestioneSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es2_Sim/Sim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es2_Sim/Sim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es3_Ecommerce/Articolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es3_Ecommerce/Articolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es3_Ecommerce/Carrello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es3_Ecommerce/Carrello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno3/Es3_Ecommerce/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno3/Es3_Ecommerce/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno5/Es1_Interi/GestioneInteri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno5/Es1_Interi/GestioneInteri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno5/Es2_CalcoloLitriAuto/GestioneLitriKmAuto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno5/Es2_CalcoloLitriAuto/GestioneLitriKmAuto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/BancaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno5/Es3_ContoCorrente/BancaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/ContoCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno5/Es3_ContoCorrente/ContoCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/ContoOnLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno5/Es3_ContoCorrente/ContoOnLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno5/Es3_ContoCorrente/GestioneContoCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno5/Es3_ContoCorrente/GestioneContoCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno6/Es1_StringheDuplicate/GestioneStringhe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno6/Es1_StringheDuplicate/GestioneStringhe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno6/Es2_ListaInteri/GestioneNumeriInteri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno6/Es2_ListaInteri/GestioneNumeriInteri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno6/Es3_RubricaTelefonica/GestioneRubricaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno6/Es3_RubricaTelefonica/GestioneRubricaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno7/Es_Stream/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/GestioneStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno7/Es_Stream/GestioneStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno7/Es_Stream/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EserciziGiorno7/Es_Stream/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EserciziGiorno7/Es_Stream/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +87,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EserciziGiorno8.Es_StreamFIle.GestioneStream.executor": "Run",
     "Application.Esercizio1.executor": "Run",
     "Application.Esercizio2.executor": "Run",
     "Application.Esercizio3.executor": "Run",
@@ -67,22 +101,31 @@
     "Application.GestioneStream.executor": "Run",
     "Application.GestioneStringhe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/lib/logback-core-1.5.15.jar",
+    "last_opened_file_path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/src/EserciziGiorno8/Es_StreamFIle",
     "onboarding.tips.debug.path": "C:/Users/emau7/Desktop/BackEndFs0824B/SoluzioneEsercizioGiornoUno/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GestioneStream">
-    <configuration name="GestioneContoCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EserciziGiorno5.Es3_ContoCorrente.GestioneContoCorrente" />
-      <module name="SoluzioneEsercizi" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emau7\Desktop\BackEndFs0824B\SoluzioneEsercizioGiornoUno\src\EserciziGiorno8\Es_StreamFIle" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EserciziGiorno8.Es_StreamFIle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EserciziGiorno8.Es_StreamFIle.GestioneStream">
+    <configuration name="EserciziGiorno8.Es_StreamFIle.GestioneStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EserciziGiorno8.Es_StreamFIle.GestioneStream" />
+      <module name="SoluzioneEsercizioGiornoUno" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EserciziGiorno5.Es3_ContoCorrente.*" />
+          <option name="PATTERN" value="EserciziGiorno8.Es_StreamFIle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EserciziGiorno8.Es_StreamFIle.GestioneStream" />
         <item itemvalue="Application.GestioneStream" />
         <item itemvalue="Application.GestioneStringhe" />
         <item itemvalue="Application.GestioneRubricaTelefonica" />
         <item itemvalue="Application.GestioneNumeriInteri" />
-        <item itemvalue="Application.GestioneContoCorrente" />
       </list>
     </recent_temporary>
   </component>
@@ -201,22 +244,36 @@
       <option name="project" value="LOCAL" />
       <updated>1736875096193</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Soluzione Esercizi">
+      <option name="closed" value="true" />
+      <created>1736961225136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736961225136</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Soluzione Esercizi Giorno 1" />
     <MESSAGE value="Soluzione Esercizi Giorno 2" />
     <MESSAGE value="Soluzione Esercizi Giorno 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi Giorno 5" />
+    <MESSAGE value="Soluzione Esercizi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluzione Esercizi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EserciziGiorno1/Esercizio1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/EserciziGiorno1/Esercizio1.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EserciziGiorno8/Es_StreamFIle/GestioneStream.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
